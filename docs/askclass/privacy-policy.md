@@ -1,18 +1,22 @@
+---
+layout: askclass
+---
+
 # PRIVACY POLICY
 
-www.AskClass.org
+AskClass.org
 
 Effective date: 1st July 2021
 
-Welcome to www.AskClass.org (the “Site”) which is owned by BeAuthentic Inc. (“AskClass”, “we”, “us” and “our”) and operated from the United States. This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. 
+Welcome to AskClass.org (the “Site”) which is owned by BeAuthentic Inc. (“AskClass”, “we”, “us” and “our”) and operated from the United States. This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context.
 
 Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect, or otherwise handle your PII in accordance with our website.
 
 ## Collection of Personal and Non-Personal Information (PII and Non-PII)
 
-We collect and store certain personally identifiable information about you (i.e., information which may identify you in some way; such as your name, billing address, telephone number, email address, screen name and/or financial information) (“PII”) only when you voluntarily submit it. We may request that you submit PII in certain instances, such as when you purchase services offered by us, submit comments or questions, request information, participate in a promotion, contest or sweepstakes or utilize other features or functions of a Site. 
+We collect and store certain personally identifiable information about you (i.e., information which may identify you in some way; such as your name, billing address, telephone number, email address, screen name and/or financial information) (“PII”) only when you voluntarily submit it. We may request that you submit PII in certain instances, such as when you purchase services offered by us, submit comments or questions, request information, participate in a promotion, contest or sweepstakes or utilize other features or functions of a Site.
 
-When you connect to our Site, there is certain technical, non-personally identifiable information which does not identify any individual (“Non-PII”) that may be collected and stored through the use of “cookie” technology and IP addresses. PII is not extracted in this process. Non-PII may include, but is not limited to, your IP host address, internet browser type, personal computer settings, and the number, duration, and character of page visits. This information assists us to update a Site so that it remains interesting to our visitors and contains content that is tailored to visitors’ interests. 
+When you connect to our Site, there is certain technical, non-personally identifiable information which does not identify any individual (“Non-PII”) that may be collected and stored through the use of “cookie” technology and IP addresses. PII is not extracted in this process. Non-PII may include, but is not limited to, your IP host address, internet browser type, personal computer settings, and the number, duration, and character of page visits. This information assists us to update a Site so that it remains interesting to our visitors and contains content that is tailored to visitors’ interests.
 
 ## What Information We Collect
 
@@ -44,15 +48,15 @@ Except as provided for herein, we will not provide any of your PII to any third 
 
 **Direct Marketing**.  We may use your personal information to send you AskClass-related marketing communications as permitted by law.  You will have the ability to opt-out of our marketing and promotional communications.
 
-**For research and development**.  We may use your personal information for research and development purposes, including to analyze and improve the Service and our business. 
+**For research and development**.  We may use your personal information for research and development purposes, including to analyze and improve the Service and our business.
 
 **To create anonymous data**.  We may create aggregated, de-identified or other anonymous data records from your personal information and other individuals whose personal information we collect.  We make personal information into anonymous data by excluding information (such as your name) that makes the data personally identifiable to you.  We may use this anonymous data and share it with third parties for our lawful business purposes, including to analyze and improve the Service and promote our business.
 
-**To comply with laws and regulations**.  We use your personal information as we believe necessary or appropriate to comply with applicable laws, lawful requests, and legal process, such as to respond to subpoenas or requests from government authorities. 
+**To comply with laws and regulations**.  We use your personal information as we believe necessary or appropriate to comply with applicable laws, lawful requests, and legal process, such as to respond to subpoenas or requests from government authorities.
 
 **For compliance, fraud prevention and safety**.  We may use your personal information and disclose it to law enforcement, government authorities, and private parties as we believe necessary or appropriate to: (a) protect our, your or others’ rights, privacy, safety or property (including by making and defending legal claims); (b) audit our internal processes for compliance with legal and contractual requirements; (c) enforce the terms and conditions that govern the Service; and (d) protect, investigate and deter against fraudulent, harmful, unauthorized, unethical or illegal activity, including cyber-attacks and identity theft.
 
-**With your consent**.  In some cases we may specifically ask for your consent to collect, use or share your personal information, such as when required by law. 
+**With your consent**.  In some cases we may specifically ask for your consent to collect, use or share your personal information, such as when required by law.
 
 ## Cookies
 
@@ -66,9 +70,9 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 ## NOTICE TO CALIFORNIA RESIDENTS - CCPA
 
-We are required by the California Consumer Privacy Act (“CCPA”) to provide to California residents an explanation of how we collect, use and share their Personal Information, and of the rights and choices, we offer to California residents concerning that Personal Information. 
+We are required by the California Consumer Privacy Act (“CCPA”) to provide to California residents an explanation of how we collect, use and share their Personal Information, and of the rights and choices, we offer to California residents concerning that Personal Information.
 
-**Personal information that we collect, use, and share**.  We do not sell personal information.  As we explain in this Privacy Policy, we use cookies and other tracking tools to analyze website traffic and facilitate advertising.  
+**Personal information that we collect, use, and share**.  We do not sell personal information.  As we explain in this Privacy Policy, we use cookies and other tracking tools to analyze website traffic and facilitate advertising.
 
 **Your California privacy rights**.  The CCPA grants California residents the following rights.  However, these rights are not absolute, and in certain cases we may decline your request as permitted by law.
 

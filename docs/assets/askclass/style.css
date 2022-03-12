@@ -1,0 +1,37 @@
+html {
+  --fgLeft: #475875;
+  --fgColor: snow;
+  --themeColor: #ffc100;
+}
+body, pre code {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  background-color: var(--fgLeft);
+}
+
+body, pre, code {
+  color: var(--fgColor);
+}
+
+h1, h2, h3, h4, h5, h6, blockquote {
+  font-family: 'Reem Kufi', serif;
+}
+
+a {
+  color: var(--themeColor);
+}
+
+.content {
+  margin: 50px;
+}
+
+@media (max-width: 500px) {
+  body {
+    font-size: 16px;
+  }
+  .content {
+    margin: 10px;
+  }
+}

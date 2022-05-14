@@ -4,11 +4,11 @@ layout: askclass
 
 # PRIVACY POLICY
 
-AskClass.org
+AskClass.com
 
 Effective date: 1st July 2021
 
-Welcome to AskClass.org (the “Site”) which is owned by BeAuthentic Inc. (“AskClass”, “we”, “us” and “our”) and operated from the United States. This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context.
+Welcome to AskClass.com (the “Site”) which is owned by BeAuthentic Inc. (“AskClass”, “we”, “us” and “our”) and operated from the United States. This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context.
 
 Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect, or otherwise handle your PII in accordance with our website.
 
@@ -124,4 +124,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 ### BeAuthentic
 
-Email: `team@askclass.org`
+Email: `team@askclass.com`

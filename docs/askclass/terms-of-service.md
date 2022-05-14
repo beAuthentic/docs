@@ -11,7 +11,7 @@ Last updated August 13, 2021
 These Terms of Use constitute a legally binding agreement made between you,
 whether personally or on behalf of an entity (“you”) and AskClass ("Company",
 “we”, “us”, or “our”), concerning your access to and use of the
-https://askclass.org/ website as well as any other media form, media channel,
+https://askclass.com/ website as well as any other media form, media channel,
 mobile website or mobile application related, linked, or otherwise connected
 thereto (collectively, the “Site”). We are registered in California, United States and
 have our registered office at 2490 Middlefield Road, Palo Alto, CA 94301. You

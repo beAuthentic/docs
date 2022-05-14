@@ -1,14 +1,16 @@
 html {
+  --bgColor: #2d2d2d;
   --fgLeft: #475875;
   --fgColor: snow;
   --themeColor: #ffc100;
 }
 body, pre code {
   font-family: 'Roboto', sans-serif;
+  line-height: 1.5;
 }
 
 body {
-  background-color: var(--fgLeft);
+  background-color: var(--bgColor);
 }
 
 body, pre, code {

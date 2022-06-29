@@ -12,7 +12,7 @@ layout: askclass
 <details>
   <summary><h3>Can I cancel my membership anytime?</h3></summary>
   Absolutely.
-  You may cancel your membership anytime by going to `Settings > Account > Manage`.
+  You may cancel your membership anytime by going to <code>Settings > Account > Manage</code>.
   This stops the auto-payment scheduled in the future.
 </details>
 <details>

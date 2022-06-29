@@ -3,6 +3,7 @@ html {
   --fgLeft: #475875;
   --fgColor: snow;
   --themeColor: #ffc100;
+  --primaryColor: deepskyblue;
 }
 body, pre code {
   font-family: 'Roboto', sans-serif;
@@ -27,6 +28,7 @@ a {
 
 summary > h3 {
   display: inline-block;
+  color: var(--primaryColor);
 }
 
 .content {

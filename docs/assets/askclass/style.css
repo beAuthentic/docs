@@ -25,6 +25,10 @@ a {
   color: var(--themeColor);
 }
 
+summary > h3 {
+  display: inline-block;
+}
+
 .content {
   margin: 50px;
 }

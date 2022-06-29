@@ -27,7 +27,12 @@ a {
 }
 
 details {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
+  transition: all .5s ease-in-out;
+}
+
+summary {
+  margin-bottom: 10px;
 }
 
 summary > h3 {

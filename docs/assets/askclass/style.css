@@ -26,8 +26,12 @@ a {
   color: var(--themeColor);
 }
 
+details {
+  margin-bottom: 20px;
+}
+
 summary > h3 {
-  display: inline-block;
+  display: contents;
   color: var(--primaryColor);
 }
 
